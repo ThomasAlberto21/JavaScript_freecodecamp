@@ -1,3 +1,12 @@
+/*
+Write a switch statement which tests val and sets answer for the following conditions:
+1 - alpha
+2 - beta
+3 - gamma
+4 - delta
+
+*/
+
 function caseInSwitch(val) {
   let answer = '';
   switch (val) {
