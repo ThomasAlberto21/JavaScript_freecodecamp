@@ -1,4 +1,5 @@
-// Setup
+// TODO : Convert the switch statement into an object called lookup. Use it to look up val and assign the associated string to the result variable.
+
 function phoneticLookup(val) {
   let result = '';
 
