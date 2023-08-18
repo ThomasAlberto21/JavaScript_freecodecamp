@@ -18,9 +18,10 @@ function chainToSwitch(val) {
 
   return answer;
 }
-*/
+
 
 chainToSwitch(7);
+*/
 
 function chainToSwitch(val) {
   let answer = '';
